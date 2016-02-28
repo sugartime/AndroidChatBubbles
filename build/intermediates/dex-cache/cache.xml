@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\androidstudio_project\AndroidChatBubbles\app\libs\loremipsum-1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="863f636e950b4199a4fbb448e8dc6eb6829bb1fe">
+        <dex dex="C:\androidstudio_project\AndroidChatBubbles\app\build\intermediates\pre-dexed\debug\loremipsum-1.0-6b4015d45c6832d769e561165f8d69524a9891cd.jar" />
+    </item>
+
+</items>
